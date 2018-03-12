@@ -1,0 +1,6155 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003drating\u0026menu_id\u003d21\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003drating\u0026menu_id\u003d21",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d56\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d56",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1501\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1501",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1505\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1505",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1506\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1506",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d54\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d54",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1504\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1504",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;9",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1507\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1507",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;10",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1509\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1509",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;11",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1701\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1701",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;12",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1702\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1702",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;13",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1703\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1703",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;14",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1704\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1704",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 27,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;15",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d49\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d49",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;16",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d47\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d47",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;17",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d46\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d46",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 30,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;18",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d57\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d57",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;19",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d44\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d44",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 32,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;20",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d48\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d48",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 33,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;21",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d50\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d50",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 34,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;22",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d51\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d51",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 35,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;23",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d52\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d52",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 36,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;24",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d53\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d53",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 37,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;25",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d67\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d67",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 38,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;26",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1801\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1801",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 39,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;27",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1802\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1802",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 40,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;28",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1803\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1803",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 41,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;29",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1804\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1804",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 42,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;30",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1805\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1805",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I log in as demo with password demo with name Иванов О.З.",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 43,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance;test-data-existance-outline;;31",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaistan-dev.proitr.ru/index.php?show\u003dTreeContract\u0026menu_id\u003d1600\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaistan-dev.proitr.ru/index.php?show\u003dTreeContract\u0026menu_id\u003d1600",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for the table",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      }
+    ],
+    "name": "Test data existance",
+    "description": "  I want to check if there is some data in all the tables",
+    "id": "test-data-existance",
+    "keyword": "Feature",
+    "uri": "src/Features/testDataExistence.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 20165301315,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4220986782,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003drating\u0026menu_id\u003d21\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003drating\u0026menu_id\u003d21",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15873974619,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5030826549,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4356097895,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d56\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d56",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "error_message": "Element not found {#creport-grid \u003e div.grid-table-wrap \u003e table}\nExpected: visible\nScreenshot: file:/D:/eclipse_workspace/Cucumber_EAIST/build/reports/tests/1520835753427.0.png\nPage source: file:/D:/eclipse_workspace/Cucumber_EAIST/build/reports/tests/1520835753427.0.html\nTimeout: 90 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#creport-grid \u003e div.grid-table-wrap \u003e table\"}\r\n\tat com.codeborne.selenide.impl.WebElementSource.createElementNotFoundError(WebElementSource.java:31)\r\n\tat com.codeborne.selenide.impl.ElementFinder.createElementNotFoundError(ElementFinder.java:82)\r\n\tat com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:59)\r\n\tat com.codeborne.selenide.commands.Should.should(Should.java:35)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:29)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:12)\r\n\tat com.codeborne.selenide.commands.Commands.execute(Commands.java:143)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:87)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:63)\r\n\tat com.sun.proxy.$Proxy12.shouldBe(Unknown Source)\r\n\tat stepDefinition_prom.stepDef_prom.i_checking_the_table(stepDef_prom.java:38)\r\n\tat ✽.I checking the table(src/Features/testDataExistence_prom.feature:10)\r\nCaused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#creport-grid \u003e div.grid-table-wrap \u003e table\"}\n  (Session info: chrome\u003d64.0.3282.186)\n  (Driver info: chromedriver\u003d2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform\u003dWindows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.8.1\u0027, revision: \u00276e95a6684b\u0027, time: \u00272017-12-01T19:05:32.194Z\u0027\nSystem info: host: \u0027PRM-WS-0159\u0027, ip: \u002710.242.4.214\u0027, os.name: \u0027Windows 8.1\u0027, os.arch: \u0027x86\u0027, os.version: \u00276.3\u0027, java.version: \u00271.8.0_151\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\\Users\\starikov\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}\nSession ID: c1a9406fc64887061d51bc21c7f826e0\n*** Element info: {Using\u003dcss selector, value\u003d#creport-grid \u003e div.grid-table-wrap \u003e table}\r\n\tat sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:371)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:465)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)\r\n\tat com.codeborne.selenide.impl.WebElementSelector.findElement(WebElementSelector.java:28)\r\n\tat com.codeborne.selenide.impl.ElementFinder.getWebElement(ElementFinder.java:56)\r\n\tat com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:44)\r\n\tat com.codeborne.selenide.commands.Should.should(Should.java:35)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:29)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:12)\r\n\tat com.codeborne.selenide.commands.Commands.execute(Commands.java:143)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:87)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:63)\r\n\tat com.sun.proxy.$Proxy12.shouldBe(Unknown Source)\r\n\tat stepDefinition_prom.stepDef_prom.i_checking_the_table(stepDef_prom.java:38)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:32)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:26)\r\n\tat cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:37)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:40)\r\n\tat cucumber.api.TestStep.executeStep(TestStep.java:102)\r\n\tat cucumber.api.TestStep.run(TestStep.java:83)\r\n\tat cucumber.api.TestCase.run(TestCase.java:58)\r\n\tat cucumber.runner.Runner.runPickle(Runner.java:80)\r\n\tat cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:140)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:117)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:55)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:126)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)\r\n",
+              "duration": 90844888101,
+              "status": "failed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5040920513,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4187799250,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1501\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1501",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 20162865408,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5045670191,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6100416533,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1505\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1505",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6555262776,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5039352226,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4887659835,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1506\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1506",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 21892261717,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5043665700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8904390621,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d54\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d54",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 57201450597,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5067820529,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2845883333,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1504\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1504",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 43391343632,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5042716311,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;9",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4367484395,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1507\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1507",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11453618024,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5024128830,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;10",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8724860115,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1509\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1509",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11120570248,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5023862659,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;11",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3644369444,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1701\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1701",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15684132216,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5044223016,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;12",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3552658886,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1702\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1702",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 22989429803,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5038808936,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;13",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2603314477,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1703\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1703",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15387593635,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5042306107,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;14",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3980249304,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1704\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1704",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "error_message": "Element not found {#creport-grid \u003e div.grid-table-wrap \u003e table}\nExpected: visible\nScreenshot: file:/D:/eclipse_workspace/Cucumber_EAIST/build/reports/tests/1520836179337.1.png\nPage source: file:/D:/eclipse_workspace/Cucumber_EAIST/build/reports/tests/1520836179337.1.html\nTimeout: 90 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#creport-grid \u003e div.grid-table-wrap \u003e table\"}\r\n\tat com.codeborne.selenide.impl.WebElementSource.createElementNotFoundError(WebElementSource.java:31)\r\n\tat com.codeborne.selenide.impl.ElementFinder.createElementNotFoundError(ElementFinder.java:82)\r\n\tat com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:59)\r\n\tat com.codeborne.selenide.commands.Should.should(Should.java:35)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:29)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:12)\r\n\tat com.codeborne.selenide.commands.Commands.execute(Commands.java:143)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:87)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:63)\r\n\tat com.sun.proxy.$Proxy12.shouldBe(Unknown Source)\r\n\tat stepDefinition_prom.stepDef_prom.i_checking_the_table(stepDef_prom.java:38)\r\n\tat ✽.I checking the table(src/Features/testDataExistence_prom.feature:10)\r\nCaused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#creport-grid \u003e div.grid-table-wrap \u003e table\"}\n  (Session info: chrome\u003d64.0.3282.186)\n  (Driver info: chromedriver\u003d2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform\u003dWindows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.8.1\u0027, revision: \u00276e95a6684b\u0027, time: \u00272017-12-01T19:05:32.194Z\u0027\nSystem info: host: \u0027PRM-WS-0159\u0027, ip: \u002710.242.4.214\u0027, os.name: \u0027Windows 8.1\u0027, os.arch: \u0027x86\u0027, os.version: \u00276.3\u0027, java.version: \u00271.8.0_151\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\\Users\\starikov\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}\nSession ID: c1a9406fc64887061d51bc21c7f826e0\n*** Element info: {Using\u003dcss selector, value\u003d#creport-grid \u003e div.grid-table-wrap \u003e table}\r\n\tat sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:371)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:465)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)\r\n\tat com.codeborne.selenide.impl.WebElementSelector.findElement(WebElementSelector.java:28)\r\n\tat com.codeborne.selenide.impl.ElementFinder.getWebElement(ElementFinder.java:56)\r\n\tat com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:44)\r\n\tat com.codeborne.selenide.commands.Should.should(Should.java:35)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:29)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:12)\r\n\tat com.codeborne.selenide.commands.Commands.execute(Commands.java:143)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:87)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:63)\r\n\tat com.sun.proxy.$Proxy12.shouldBe(Unknown Source)\r\n\tat stepDefinition_prom.stepDef_prom.i_checking_the_table(stepDef_prom.java:38)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:32)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:26)\r\n\tat cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:37)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:40)\r\n\tat cucumber.api.TestStep.executeStep(TestStep.java:102)\r\n\tat cucumber.api.TestStep.run(TestStep.java:83)\r\n\tat cucumber.api.TestCase.run(TestCase.java:58)\r\n\tat cucumber.runner.Runner.runPickle(Runner.java:80)\r\n\tat cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:140)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:117)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:55)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:126)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)\r\n",
+              "duration": 90938413273,
+              "status": "failed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5039883884,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 27,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;15",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4055262604,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d49\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d49",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 21896065769,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5028422459,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;16",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3493080756,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d47\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d47",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 26867271766,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5042367004,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;17",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2812644824,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d46\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d46",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 47645838857,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5056076170,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 30,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;18",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2714631355,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d57\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d57",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9451954628,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5038627612,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;19",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4157341166,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d44\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d44",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 61699402142,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5046500178,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 32,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;20",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5555505682,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d48\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d48",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 33398787178,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5038293017,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 33,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;21",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4169724951,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d50\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d50",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 33857062507,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5018128696,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 34,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;22",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4151446406,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d51\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d51",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 58794777168,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5026664978,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 35,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;23",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3819402073,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d52\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d52",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 54397259603,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5046402332,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 36,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;24",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3732179471,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d53\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d53",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 72589051758,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5044663326,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 37,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;25",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2848187866,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d67\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d67",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 70252282723,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5043175439,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 38,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;26",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3040694028,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1801\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1801",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 10722436866,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5010167520,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 39,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;27",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4734222964,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1802\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1802",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7156493045,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5044743040,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 40,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;28",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3537784795,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1803\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1803",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7463564192,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5030347579,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 41,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;29",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4583078652,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1804\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1804",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12566786124,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5032153982,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 42,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;30",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2192514373,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1805\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1805",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 36766594194,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5046815616,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I login as demo with password reptilian with name Иванов О.З.",
+            "match": {
+              "location": "stepDef_prom.i_login_as_demo_with_password_reptilian_with_name_Иванов_О_З()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 43,
+        "name": "Test data existance outline",
+        "description": "",
+        "id": "test-data-existance-prom;test-data-existance-outline;;31",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2788443123,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I go to \"http://eaist.mos.ru/analytics/index.php?show\u003dTreeContract\u0026menu_id\u003d1600\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://eaist.mos.ru/analytics/index.php?show\u003dTreeContract\u0026menu_id\u003d1600",
+                  "offset": 9
+                }
+              ],
+              "location": "stepDef_prom.i_go_to(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "error_message": "Element not found {#creport-grid \u003e div.grid-table-wrap \u003e table}\nExpected: visible\nScreenshot: file:/D:/eclipse_workspace/Cucumber_EAIST/build/reports/tests/1520836983864.2.png\nPage source: file:/D:/eclipse_workspace/Cucumber_EAIST/build/reports/tests/1520836983864.2.html\nTimeout: 90 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#creport-grid \u003e div.grid-table-wrap \u003e table\"}\r\n\tat com.codeborne.selenide.impl.WebElementSource.createElementNotFoundError(WebElementSource.java:31)\r\n\tat com.codeborne.selenide.impl.ElementFinder.createElementNotFoundError(ElementFinder.java:82)\r\n\tat com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:59)\r\n\tat com.codeborne.selenide.commands.Should.should(Should.java:35)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:29)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:12)\r\n\tat com.codeborne.selenide.commands.Commands.execute(Commands.java:143)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:87)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:63)\r\n\tat com.sun.proxy.$Proxy12.shouldBe(Unknown Source)\r\n\tat stepDefinition_prom.stepDef_prom.i_checking_the_table(stepDef_prom.java:38)\r\n\tat ✽.I checking the table(src/Features/testDataExistence_prom.feature:10)\r\nCaused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#creport-grid \u003e div.grid-table-wrap \u003e table\"}\n  (Session info: chrome\u003d64.0.3282.186)\n  (Driver info: chromedriver\u003d2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform\u003dWindows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.8.1\u0027, revision: \u00276e95a6684b\u0027, time: \u00272017-12-01T19:05:32.194Z\u0027\nSystem info: host: \u0027PRM-WS-0159\u0027, ip: \u002710.242.4.214\u0027, os.name: \u0027Windows 8.1\u0027, os.arch: \u0027x86\u0027, os.version: \u00276.3\u0027, java.version: \u00271.8.0_151\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\\Users\\starikov\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.186, webStorageEnabled: true}\nSession ID: c1a9406fc64887061d51bc21c7f826e0\n*** Element info: {Using\u003dcss selector, value\u003d#creport-grid \u003e div.grid-table-wrap \u003e table}\r\n\tat sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:371)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:465)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)\r\n\tat com.codeborne.selenide.impl.WebElementSelector.findElement(WebElementSelector.java:28)\r\n\tat com.codeborne.selenide.impl.ElementFinder.getWebElement(ElementFinder.java:56)\r\n\tat com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:44)\r\n\tat com.codeborne.selenide.commands.Should.should(Should.java:35)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:29)\r\n\tat com.codeborne.selenide.commands.Should.execute(Should.java:12)\r\n\tat com.codeborne.selenide.commands.Commands.execute(Commands.java:143)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:87)\r\n\tat com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:63)\r\n\tat com.sun.proxy.$Proxy12.shouldBe(Unknown Source)\r\n\tat stepDefinition_prom.stepDef_prom.i_checking_the_table(stepDef_prom.java:38)\r\n\tat sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:32)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:26)\r\n\tat cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:37)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:40)\r\n\tat cucumber.api.TestStep.executeStep(TestStep.java:102)\r\n\tat cucumber.api.TestStep.run(TestStep.java:83)\r\n\tat cucumber.api.TestCase.run(TestCase.java:58)\r\n\tat cucumber.runner.Runner.runPickle(Runner.java:80)\r\n\tat cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:140)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:117)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:55)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:126)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)\r\n",
+              "duration": 90914333367,
+              "status": "failed"
+            },
+            "line": 10,
+            "name": "I checking the table",
+            "match": {
+              "location": "stepDef_prom.i_checking_the_table()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      }
+    ],
+    "name": "Test data existance_prom",
+    "description": "  I want to check if there is some data in all the tables",
+    "id": "test-data-existance-prom",
+    "keyword": "Feature",
+    "uri": "src/Features/testDataExistence_prom.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003drating\u0026menu_id\u003d21\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose \"#lt_print_1\" from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d56\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose \"#lt_print_2\" from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1501\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose \"#lt_print_3\" from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1505\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose \"#lt_print_4\" from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dExpertNMC\u0026menu_id\u003d1500\u0026report_id\u003d1506\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d54\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1504\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;9",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1507\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;10",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dKpgzSpgz\u0026menu_id\u003d1503\u0026report_id\u003d1509\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;11",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1701\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;12",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1702\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 27,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;13",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1703\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;14",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dAdministration\u0026menu_id\u003d1700\u0026report_id\u003d1704\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;15",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d49\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 30,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;16",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d47\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;17",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d46\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 32,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;18",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d57\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 33,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;19",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d44\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 34,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;20",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d48\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 35,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;21",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d50\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 36,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;22",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d51\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 37,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;23",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d52\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 38,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;24",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d53\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 39,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;25",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dnew_reports\u0026menu_id\u003d1096\u0026report_id\u003d67\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 40,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;26",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1801\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 41,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;27",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1802\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 42,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;28",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1803\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 43,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;29",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1804\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 44,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;30",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dMrg\u0026menu_id\u003d1800\u0026report_id\u003d1805\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I login as demo with password demo",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 45,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "test-export;title-of-your-scenario-outline;;31",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I go throught \"http://eaistan-dev.proitr.ru/index.php?show\u003dTreeContract\u0026menu_id\u003d1600\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I click on exportBtn",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "choose  from comboBox",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I see ok message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Test export",
+    "description": "  I want to check if export work well",
+    "id": "test-export",
+    "keyword": "Feature",
+    "uri": "src/Features/testExport.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
